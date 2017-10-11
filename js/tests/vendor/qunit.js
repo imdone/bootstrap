@@ -2729,7 +2729,7 @@
   	config.currentModule = module;
   }
 
-  // TODO: extract this to a new file alongside its related functions
+  // TODO: extract this to a new file alongside its related functions id:0 gh:1
   function module$1(name, options, executeNow) {
   	if (focused) {
   		return;
